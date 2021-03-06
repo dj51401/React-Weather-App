@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# DJ's Weather App!
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+My first full React app using API Calls from api.weatherstack.com
 
 ## Available Scripts
 
